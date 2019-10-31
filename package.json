@@ -1,7 +1,7 @@
 {
-  "name": "llama-facts",
+  "name": "refranero-español",
   "version": "1.0.0",
-  "description": "Create a llama facts alexa skill.",
+  "description": "Crer una skill para alexa de refranes en español.",
   "main": "index.js",
   "scripts": {
     "proxy": "bst proxy lambda index.js",
@@ -15,6 +15,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bespoken/llama-facts.git"
+    "url": "git://github.com/josecbm6/refranero-espa-ol.git"
   }
 }
