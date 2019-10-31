@@ -13,23 +13,7 @@
     "bespoken-tools": "^2.1.2",
     "dotenv": "^6.2.0"
     
-      },
-    const skillBuilder = Alexa.SkillBuilders.custom();
-
-exports.handler = skillBuilder
-  .withSkillId("amzn1.ask.skill.bd1511f2-8085-45a3-9451-3f14fa843428")
-  .addRequestHandlers(
-    HelloWorldIntentHandler,
-    LaunchRequestHandler,
-    HelpIntentHandler,
-    CancelAndStopIntentHandler,
-    SessionEndedRequestHandler,
-  )
-  .addErrorHandlers(ErrorHandler)
-  .addRequestInterceptors(LoggingRequestInterceptor)
-  .addResponseInterceptors(LoggingResponseInterceptor)
-  .lambda();
-    
+  
     
     
   },
