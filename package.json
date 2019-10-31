@@ -13,7 +13,7 @@
     "bespoken-tools": "^2.1.2",
     "dotenv": "^6.2.0"
     
-    
+      },
     const skillBuilder = Alexa.SkillBuilders.custom();
 
 exports.handler = skillBuilder
