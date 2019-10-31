@@ -1,7 +1,7 @@
 {
   "name": "refranero-español",
   "version": "1.0.0",
-  "description": "Crer una skill para alexa de refranes en español.",
+  "description": "Crear una skill para alexa de refranes en español.",
   "main": "index.js",
   "scripts": {
     "proxy": "bst proxy lambda index.js",
