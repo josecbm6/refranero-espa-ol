@@ -1,22 +1,23 @@
 var languageStrings = {
-    "en": {
+    "es": {
         "translation": {
             "FACTS": [
-                "Llamas are large animals. They can be 6 feet tall and reach between 280 and 450 pounds.",
-                "A Llama's body is covered with wool which can be black, gray, white or brown, with variety of patterns.",
-                "Llamas have excellent sight, smell and hearing, which are used for detection of potential danger.",
-                "Llamas are very social animals. They live in groups composed of up to 20 animals.",
-                "Llamas are known as animals that spit when provoked or threatened. They can spit at humans also, but they usually spit at each other to solve misunderstandings in the group. ",
-                "Llamas are very intelligent, but stubborn animals. When the load on its back is too heavy, a llama will refuse to carry it until some of the load is removed.",
-                "The lifespan of a llama is between 20 and 30 years."
+                "A quien madruga, Dios le ayuda.",
+                "Haciendo y deshaciendo se va aprendiendo.",
+                "Quien no se aventura no pasa la mar.",
+                "Quien no hace lo que dice, acaba diciendo lo que hace.",
+                "Vísteme despacio que tengo prisa. ",
+                "Cada persona es dueña de su sielncio y esclava de sus palabras.",
+                "Después de la tempestad viene la calma."
             ],
-            "SKILL_NAME" : "LLama Facts",
-            "GET_FACT_MESSAGE" : "Here's your fact: ",
-            "HELP_MESSAGE" : "You can say tell me a llama fact, or, you can say exit... What can I help you with?",
-            "HELP_REPROMPT" : "What can I help you with?",
-            "STOP_MESSAGE" : "Goodbye!"
+            "SKILL_NAME" : "Refranero español",
+            "GET_FACT_MESSAGE" : "Aquí está tu refrán: ",
+            "HELP_MESSAGE" : "Puedes decir dime un refrán, o, puedes decir salir... con que puedo ayudarte?",
+            "HELP_REPROMPT" : "Con que puedo ayudarte?",
+            "STOP_MESSAGE" : "Adios"
         }
     }
 };
 
 module.exports = languageStrings;
+
